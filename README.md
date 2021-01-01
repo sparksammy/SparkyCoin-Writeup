@@ -4,7 +4,7 @@
 ### Automated
 * Automated growth, can "print" more money automatically as circulation grows
   * Starting at 250000 total coins
-  * Down to 10 digits behind the decimal point
+  * Down to 19 digits behind the decimal point
 * Automated transaction tax of 0.5% or at least 0.00001, and at most 0.01 SPARKY to support the creator (Sparksammy)
 
 ## Digital, unstable, and fiat-like
