@@ -16,4 +16,4 @@
   * No private keys per-say, instead we use a randomly generated password!
 * Everything done via Express.js and NodeJS via an API.
 * Unstable as in the value fluctuates, fiat-like as in it's backed by the people.
-* There's 1 Database using sqlite3, it only holds: Current amount of coins in wallet, public, and private keys.
+* There's 1 Database using Quick.db, it only holds: Current amount of coins in wallet, public, and private keys.
