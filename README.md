@@ -10,7 +10,7 @@
 ## Digital, unstable, and fiat-like
 * Mining in a different way.
   * Since this is fiat, we do not need "mining" in a typical sence.
-  * So we instead have a faucet of sorts, but with a guessing game, where you guess the sum of two numbers you don't know. These two numbers range from one to 50.
+  * So we instead have a faucet of sorts, but with a guessing game, where you guess the sum of two numbers you don't know. These two numbers range from one to 12, and these two numbers only last for 1 GET request.
 * Wallets are different, too!
   * Since we don't have banks, and we are fiat, you just send the money to someones wallet via their address, and then it's just there!
 * Everything done via Express.js and NodeJS via an API.
