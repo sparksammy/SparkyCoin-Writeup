@@ -16,9 +16,9 @@
 * Unstable as in the value fluctuates, fiat-like as in it's backed by the people.
 * There's 2 Databases using Quick.db, they only hold: Current amount of coins in wallet, public, private keys, and currently "minted" coins.
 
-## Centerally Decentralized.
+## Centrally Decentralized.
 * Decentralized meaning there are servers everywhere
-* Centerally meaning that each server hosts their own database
+* Centrally meaning that each server hosts their own database
  * With their own data.
  
 ### Most importantly, people don't have to ask for a fork. Fork Freely.
