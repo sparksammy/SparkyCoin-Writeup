@@ -20,6 +20,8 @@
 * Decentralized meaning there are servers everywhere
 * Centrally meaning that each server hosts their own database
  * With their own data.
+* TLDR: Seperate servers, seperate money. No transfering outside your server.
+ * Bascially these servers are like banks, but you can't transfer outside of them.
  
 ### Most importantly, people don't have to ask for a fork. Fork Freely. Just follow the license provided.
 
