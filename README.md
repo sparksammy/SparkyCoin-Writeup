@@ -1,5 +1,5 @@
 # SparkyCoin-Writeup
-## An automated, digital, unstable fiat-like currency made in NodeJS and Express.js with a so-simple-its-genius design
+## An automated, digital, stable fiat-like currency made in NodeJS and Express.js with a so-simple-its-genius design
 
 ### Automated
 * Automated growth, can "mint" more money automatically as circulation grows
